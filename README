@@ -1,0 +1,4 @@
+data_structure.py preprocesses the given data, in this case 'train-v2.0.json'.
+models.py contains the necessary model structures to do the prediction task. 
+Main.py trains our model with the preprocessed data, and test the accuracy on it.
+To run our model, just run main.py
